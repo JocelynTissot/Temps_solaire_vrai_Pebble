@@ -1,0 +1,29 @@
+{
+    "appKeys": {
+        "corr_eot": 45,
+        "latitude": 1,
+        "longitude": 2,
+        "time_zone": 43,
+        "timezoneOffset": 42
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "jocelyntissot@gmail.com",
+    "longName": "EOT_TIME_1.8",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "EOT_TIME_1.8",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "fa636339-cc1a-4132-b71d-65302400b6f7",
+    "versionLabel": "1.8",
+    "watchapp": {
+        "watchface": true
+    }
+}
